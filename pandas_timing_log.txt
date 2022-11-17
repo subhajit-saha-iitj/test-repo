@@ -1,0 +1,22 @@
+X----X-----X-----X----X
+file name is ADANIPORTS_with_indicators_.csv and total file size becomes 664.071459 MB
+total rows in dataframe is : 651918
+X----X-----X-----X----XTime takes to merge is 8.367672204971313 seconds
+To Run Query to get total sum of opening price of stocks : 259179688.49999994 INR,  it takes 0.0 seconds and Total Time Taken is 8.367672204971313 seconds
+X----X-----X-----X----XTo Run Query to get maximun high price of stocks : 900.85 INR, it takes 0.0 seconds and Total Time Taken is 8.367672204971313 seconds
+X----X-----X-----X----XTo Run Query to get total volume of stocks: 9124616443, it takes 0.0 seconds and Total Time Taken is 8.367672204971313 seconds
+X----X-----X-----X----XX----X-----X-----X----X
+file name is ASIANPAINT_with_indicators_.csv and total file size becomes 1328.591546 MB
+total rows in dataframe is : 1303838
+X----X-----X-----X----XTime takes to merge is 18.9217529296875 seconds
+To Run Query to get total sum of opening price of stocks : 1266224743.0500002 INR,  it takes 0.0 seconds and Total Time Taken is 18.9217529296875 seconds
+X----X-----X-----X----XTo Run Query to get maximun high price of stocks : 3589.5 INR, it takes 0.0 seconds and Total Time Taken is 18.9217529296875 seconds
+X----X-----X-----X----XTo Run Query to get total volume of stocks: 11506163360, it takes 0.0 seconds and Total Time Taken is 18.9217529296875 seconds
+X----X-----X-----X----XX----X-----X-----X----X
+file name is AXISBANK_with_indicators_.csv and total file size becomes 1989.06158 MB
+total rows in dataframe is : 1955756
+X----X-----X-----X----XTime takes to merge is 34.0853955745697 seconds
+To Run Query to get total sum of opening price of stocks : 1647745407.6000009 INR,  it takes 0.01562190055847168 seconds and Total Time Taken is 34.101017475128174 seconds
+X----X-----X-----X----XTo Run Query to get maximun high price of stocks : 3589.5 INR, it takes 0.01562047004699707 seconds and Total Time Taken is 34.11663794517517 seconds
+X----X-----X-----X----XTo Run Query to get total volume of stocks: 32710909828, it takes 0.015621185302734375 seconds and Total Time Taken is 34.132259130477905 seconds
+X----X-----X-----X----XPandas Execution time in total is: 34.132259130477905 seconds
